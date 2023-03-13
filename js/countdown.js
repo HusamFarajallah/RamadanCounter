@@ -1,4 +1,5 @@
-﻿let date = new Date("3,22,2023");
+﻿let date = new Date(2023, 2, 22);
+
 let CountDay = document.getElementById("Days");
 let CountHour = document.getElementById("Hours");
 let CountMinutes = document.getElementById("Minutes");
